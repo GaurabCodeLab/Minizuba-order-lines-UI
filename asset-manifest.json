@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Minizuba-order-lines-UI/static/css/main.e6c13ad2.css",
+    "main.js": "/Minizuba-order-lines-UI/static/js/main.14d7812a.js",
+    "static/js/453.ede2c593.chunk.js": "/Minizuba-order-lines-UI/static/js/453.ede2c593.chunk.js",
+    "index.html": "/Minizuba-order-lines-UI/index.html",
+    "main.e6c13ad2.css.map": "/Minizuba-order-lines-UI/static/css/main.e6c13ad2.css.map",
+    "main.14d7812a.js.map": "/Minizuba-order-lines-UI/static/js/main.14d7812a.js.map",
+    "453.ede2c593.chunk.js.map": "/Minizuba-order-lines-UI/static/js/453.ede2c593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.14d7812a.js"
+  ]
+}
